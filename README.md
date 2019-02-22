@@ -13,8 +13,10 @@ It will generat error when running UseMonoBehavior Scene, but it no matter
 
 In my computer test:
 
-EnemyCount     UseMonoBehavior     UseECS     FPS
-    3000             100             130      
-    8000              42              70
-   15000              22              40
-   50000               6              10
+EnemyCount 3000  |  UseMonoBehaviorFPS 100  |  UseECSFPS 130
+
+EnemyCount 8000  |  UseMonoBehaviorFPS 42  |  UseECSFPS 70
+
+EnemyCount 15000  |  UseMonoBehaviorFPS 22  |  UseECSFPS 40
+
+EnemyCount 50000  |  UseMonoBehaviorFPS 6  |  UseECSFPS 10
